@@ -2,6 +2,10 @@
 
 My Name is _Thomas Michael Semmler_ - I am a **CSS Developer & Designer**. I am currently focusing on Accessibility, Inclusive Design, Design Ops & Design Engineering. I'm somewhere in between. I am not a JavaScript Developer, though I do write presentational, (preferrably) Vanilla JavaScript.
 
+Here's a few numbers that don't mean anything, but some ATS still look at it, so there you go:
+
+[![Thomas meaningless github numbers](https://github-readme-stats.vercel.app/api?username=nachtfunke)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Previously Worked on:
 
 easyname GmbH, ip-systems e.U., SAE Vienna (lecturer)
