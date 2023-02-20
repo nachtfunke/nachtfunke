@@ -14,10 +14,6 @@ easyname GmbH, ip-systems e.U., SAE Vienna (lecturer)
 
 Many things! Mostly weird little non-SPA's that I enjoy making. Mostly eleventy probably! I currently find much joy in hand-writing SVG Code. I have a lot of opinions about the industrialization of webdesign & -development that I mostly share on [twitter](https://twitter.com/nachtfunke).
 
-## 🐀🎈
-
-I am also one of the CoOrganizers of the [official eleventy meetup](https://11tymeetup.dev/)!
-
 ## Don't click on that:
 
 + Website: https://helloyes.dev/
