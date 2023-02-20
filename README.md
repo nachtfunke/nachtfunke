@@ -12,14 +12,15 @@ easyname GmbH, ip-systems e.U., SAE Vienna (lecturer)
 
 ## Currently Working on:
 
-Many things! Mostly weird little non-SPA's that I enjoy making. Mostly eleventy probably! I currently find much joy in hand-writing SVG Code. I have a lot of opinions about the industrialization of webdesign & -development that I mostly share on [twitter](https://twitter.com/nachtfunke).
+Many things! Mostly weird little non-SPA's that I enjoy making. Mostly eleventy probably! I currently find much joy in hand-writing SVG Code. I have a lot of opinions about the industrialization of webdesign & -development that I mostly share on [indieweb.social]([https://twitter.com/nachtfunke](https://indieweb.social/@nachtfunke)).
+
+I'm currently a Tech Evangelist for [Lean Coders GmbH](https://lean-coders.at/), so some of my work is _sponsored by Lean Coders GmbH_.
 
 ## Don't click on that:
 
 + Website: https://helloyes.dev/
 + Blog: https://helloyes.dev/blog/
 + Basic Pattern Repository: https://patterns.helloyes.dev/
-+ Dribbble: https://dribbble.com/thomassemmler
 + Polywork: https://www.polywork.com/pfeffer
 
 ***
@@ -30,6 +31,6 @@ Many things! Mostly weird little non-SPA's that I enjoy making. Mostly eleventy 
 + Hi gay 🏳️‍🌈
 + Not a Father or Husband
 + I am always writing songs but I won't be singing you any, sorry!
-+ I lurk in many twitch chats, failing to resist the urge to backseat-code / -design
 + Counsellor (systemic/SFBT/narrative) in Training under Supervision (ARGE/Sigmund Freud University Vienna)
 + Meditation- & Mindfulness Teacher
++ proud slow runner and aspiring Half-Marathoner
