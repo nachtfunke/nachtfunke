@@ -8,13 +8,11 @@ Here's a few numbers that don't mean anything, but some ATS still look at it, so
 
 ## Previously Worked on:
 
-easyname GmbH, ip-systems e.U., SAE Vienna (lecturer)
+easyname GmbH, ip-systems e.U., SAE Vienna (lecturer), LEAN-CODERS GmbH (Tech Evangelist)
 
 ## Currently Working on:
 
-Many things! Mostly weird little non-SPA's that I enjoy making. Mostly eleventy probably! I currently find much joy in hand-writing SVG Code. I have a lot of opinions about the industrialization of webdesign & -development that I mostly share on [indieweb.social]([https://twitter.com/nachtfunke](https://indieweb.social/@nachtfunke)).
-
-I'm currently a Tech Evangelist for [Lean Coders GmbH](https://lean-coders.at/), so some of my work is _sponsored by Lean Coders GmbH_.
+Many things! Mostly weird little non-SPA's that I enjoy making. Mostly eleventy probably! I currently find much joy in hand-writing SVG Code. I have a lot of opinions about the industrialization of webdesign & -development that I mostly share on [indieweb.social](https://indieweb.social/@nachtfunke)
 
 ## Don't click on that:
 
